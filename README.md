@@ -1,4 +1,4 @@
-# Hi, I'm Vinay Medisetti 👋 — building data-driven systems and pipelines 
+# Hi, I'm Vinay Medisetti 👋 
 
 🎓 Undergraduate at NITK  
 📊 Interested in Data Science, Data Engineering, and Intelligent Systems  
