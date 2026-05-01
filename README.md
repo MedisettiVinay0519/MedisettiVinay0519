@@ -3,7 +3,7 @@
 🎓 Undergraduate at NITK  
 📊 Interested in Data Science, Data Engineering, and Intelligent Systems  
 
----
+----
 
 ## 🚀 About Me
 
