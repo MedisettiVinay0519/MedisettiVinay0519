@@ -1,5 +1,4 @@
-## Hi there 👋
-# Hi, I'm Vinay 👋
+# Hi, I'm Vinay Medisetti 👋
 
 🎓 Undergraduate at NITK  
 📊 Interested in Data Science, Data Engineering, and Intelligent Systems  
